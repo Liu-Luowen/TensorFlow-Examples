@@ -1,2 +1,2 @@
-# TensorFlow-Examples
-This is the examples of tensorflow 实站google深度学习框架书上实例
+# Tensorflow examples
+《tensorflow实战google深度学习框架》实例实现
